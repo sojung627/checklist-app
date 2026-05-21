@@ -117,13 +117,22 @@ class _CheckListPageState extends State<CheckListPage> {
                 ElevatedButton(
                   onPressed: addTask,
                   style: ElevatedButton.styleFrom(
+                    shape: RoundedRectangleBorder(
+                      borderRadius: BorderRadius.circular(12),
+                    ),
                     backgroundColor: const Color(0xffff8fb1),
                     padding: const EdgeInsets.symmetric(
                       horizontal: 16,
                       vertical: 14,
                     ),
                   ),
-                  child: const Text("추가"),
+                  child: const Text(
+                    "추가",
+                    style: TextStyle(
+                      color: Colors.white,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
                 ),
               ],
             ),
