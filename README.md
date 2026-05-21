@@ -1,17 +1,15 @@
-# checklistapp
+# Check List (간단 체크리스트 앱)
 
-checkListApp
+## 📌 프로젝트 소개
+간단한 To do List 입니다.
 
-## Getting Started
+## 🛠 기술 스택
+### 💻 Language
+- Flutter, Dart
 
-This project is a starting point for a Flutter application.
+## ✨ 주요 기능
+- 리스트 추가 및 삭제
+- 리스트 배열 바꾸기
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💡 느낀 점
+앱에 대해 조금 더 배워보고 싶습니다.
