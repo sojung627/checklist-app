@@ -1,4 +1,4 @@
-# Check List (간단 체크리스트 앱)
+# Check List [APP]
 
 ## 📌 프로젝트 소개
 간단한 To do List 입니다.
